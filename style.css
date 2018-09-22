@@ -1,0 +1,78 @@
+@import url('https://fonts.googleapis.com/css?family=Amatic+SC|Merienda|Montserrat|Open+Sans|Permanent+Marker|Quicksand');
+head {
+  align-content: center;
+}
+nav {
+  background: blue;
+  color: white;
+  text-align:center;
+}
+nav a {
+  color: white;
+  padding-inline-end: 50px;
+  padding-inline-start: 50px;
+  font-size: 18pt;
+  font-family: 'Amatic SC';
+  text-decoration: none;
+  font-weight: bold;
+  -webkit-transition-duration: 0.7s;
+}
+nav a:hover {
+  color: #ccc;
+}
+header {
+margin-top: -40px;
+  height:480px;
+font-family: 'Open Sans';
+text-align: center;
+  background:  url("http://www.seupost.com.br/wp-content/uploads/2018/02/100-segredos-das-pessoas-felizes.jpg") 100% 100% /
+	100% no-repeat fixed content-box content-box rgb(162, 235, 162);
+}
+
+h1 {
+color: black;
+text-align: center;
+font-family: 'Montserrat', sans-serif;
+font-weight: bold;
+font-size: 50pt;
+margin-top: -10px;
+}
+
+header img{
+//height: 40%;
+//margin-top: -50px;
+margin-left: -500px;
+}
+
+header p{
+  font-family: '';
+  height: 40%;
+  background: white;
+  margin-left: 650px;
+  margin-top:-350px;
+  width: 40%;
+  font-size: 28pt;
+  padding: 20px;
+  text-align: justify;
+  box-shadow: 5px 10px #88888863;
+}
+p {
+  font-family: 'Open Sans';
+}
+#seta {
+  text-align: center;
+
+ margin-top: -18px;
+}
+#seta p {
+  font-family: 'Amatic SC', cursive;
+  font-weight: bold;
+}
+#seta img {
+margin-top: -25px;
+}
+
+footer {
+  background: rgb(181, 197, 226);
+  text-align: right;
+}
